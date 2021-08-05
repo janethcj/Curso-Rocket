@@ -30,72 +30,72 @@ business_paypal = ''; // aquí va tu correo electrónico de paypal
 		var productos = [
 			{
 				id : 1,
-				img : 'assets/img/iphone.jpg',
-				name : 'Iphone X',
+				img : 'assets/img/Alkapone1.jpg',
+				name : 'Bases de Datos',
 				price : 299.00,
 				desc : 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
 				stock : 4
 			},
 			{
 				id : 2,
-				name : 'Xbox One X',
-				img : 'assets/img/xbox.jpg',
+				name : 'Estructuras de datos',
+				img : 'assets/img/Alkapone2.jpg',
 				price : 199.00,
 				desc : 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
 				stock : 2
 			},
 			{
 				id : 3,
-				name : 'PlayStation 4',
-				img : 'assets/img/ps4.jpeg',
+				name : 'Telecomunicaciones',
+				img : 'assets/img/Alkapone3.jpeg',
 				price : 99.00,
 				desc : 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
 				stock : 1
 			},
 			{
 				id : 4,
-				name : 'Bocina Bose',
-				img : 'assets/img/bocina.jpg',
+				name : 'Sistemas Operativos',
+				img : 'assets/img/Alkapone4.jpg',
 				price : 80.00,
 				desc : 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
 				stock : 4
 			},
 			{
 				id : 5,
-				name : 'Pantalla Sony Bravia',
-				img : 'assets/img/bravia.jpg',
+				name : 'Desarrollo de sitios web',
+				img : 'assets/img/Alkapone5.jpg',
 				price : 80.00,
 				desc : 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
 				stock : 4
 			},
 			{
 				id : 6,
-				name : 'Colchon Spring Air',
-				img : 'assets/img/colchon.jpg',
+				name : 'Negocios electronicos',
+				img : 'assets/img/Alkapone6.jpg',
 				price : 80.00,
 				desc : 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
 				stock : 4
 			},
 			{
 				id : 7,
-				name : 'The Dark Knight Trilogy',
-				img : 'assets/img/TDK.jpg',
+				name : 'TAdminstración',
+				img : 'assets/img/Alkapone7.jpg',
 				price : 80.00,
 				desc : 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
 				stock : 4
 			},
 			{
 				id : 8,
-				name : 'Mueble rustico',
-				img : 'assets/img/mueble.jpg',
+				name : 'Auditoría en TI',
+				img : 'assets/img/Alkapone8.jpg',
 				price : 80.00,
 				desc : 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
 				stock : 4
 			},
 			{
 				id : 9,
-				name : 'MacBook Pro',
-				img : 'assets/img/mac.jpg',
+				name : 'Programación',
+				img : 'assets/img/Alkapone9.jpg',
 				price : 80.00,
 				desc : 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
 				stock : 4
