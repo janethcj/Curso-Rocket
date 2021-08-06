@@ -32,7 +32,7 @@ business_paypal = ''; // aquí va tu correo electrónico de paypal
 				id : 1,
 				img : 'assets/img/Alkapone1.jpg',
 				name : 'Bases de Datos',
-				price : 299.00,
+				price : 150.00,
 				desc : 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
 				stock : 4
 			},
@@ -40,7 +40,7 @@ business_paypal = ''; // aquí va tu correo electrónico de paypal
 				id : 2,
 				name : 'Estructuras de datos',
 				img : 'assets/img/Alkapone2.jpg',
-				price : 199.00,
+				price : 150.00,
 				desc : 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
 				stock : 2
 			},
@@ -48,7 +48,7 @@ business_paypal = ''; // aquí va tu correo electrónico de paypal
 				id : 3,
 				name : 'Telecomunicaciones',
 				img : 'assets/img/Alkapone3.jpg',
-				price : 99.00,
+				price : 150.00,
 				desc : 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
 				stock : 1
 			},
@@ -56,7 +56,7 @@ business_paypal = ''; // aquí va tu correo electrónico de paypal
 				id : 4,
 				name : 'Sistemas Operativos',
 				img : 'assets/img/Alkapone4.jpg',
-				price : 80.00,
+				price : 150.00,
 				desc : 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
 				stock : 4
 			},
@@ -64,7 +64,7 @@ business_paypal = ''; // aquí va tu correo electrónico de paypal
 				id : 5,
 				name : 'Desarrollo de sitios web',
 				img : 'assets/img/Alkapone5.jpg',
-				price : 80.00,
+				price : 150.00,
 				desc : 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
 				stock : 4
 			},
@@ -72,7 +72,7 @@ business_paypal = ''; // aquí va tu correo electrónico de paypal
 				id : 6,
 				name : 'Negocios electronicos',
 				img : 'assets/img/Alkapone6.jpg',
-				price : 80.00,
+				price : 150.00,
 				desc : 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
 				stock : 4
 			},
@@ -80,7 +80,7 @@ business_paypal = ''; // aquí va tu correo electrónico de paypal
 				id : 7,
 				name : 'Adminstración',
 				img : 'assets/img/Alkapone7.jpg',
-				price : 80.00,
+				price : 150.00,
 				desc : 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
 				stock : 4
 			},
@@ -88,7 +88,7 @@ business_paypal = ''; // aquí va tu correo electrónico de paypal
 				id : 8,
 				name : 'Auditoría en TI',
 				img : 'assets/img/Alkapone8.jpg',
-				price : 80.00,
+				price : 150.00,
 				desc : 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
 				stock : 4
 			},
@@ -96,7 +96,7 @@ business_paypal = ''; // aquí va tu correo electrónico de paypal
 				id : 9,
 				name : 'Programación',
 				img : 'assets/img/Alkapone9.jpg',
-				price : 80.00,
+				price : 150.00,
 				desc : 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
 				stock : 4
 			}
